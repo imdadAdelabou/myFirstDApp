@@ -1,0 +1,27 @@
+button {
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.ctn {
+    background: violet;
+    margin-bottom: 40px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+h1 {
+    display: inline;
+}
